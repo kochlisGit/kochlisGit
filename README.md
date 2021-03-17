@@ -4,15 +4,20 @@ I am a graduated student of University of Ioannina with a master in Computer Sci
 
 # Skills
 
-* Programming Languages, Software Development, Web Development
-* SQL & Database Algorithms
-* Graphs & Data Structures
-* Data Mining & Data Processing
-* Big Data Algorithms
-* Computer Vision with OpenCV
+* Programming Languages (R, Python, Java, C, C++)
+* Software Development in Multiple Platforms (JavaFX)
+* Networking, Multi-Threading & Parallel Programming (Java, C)
+* Web Development (HTML, CSS, JavaScript, Bootstrap, Spring Boot)
+* Android Application Development (Android Studio)
+* SQLite, PostgreSQL, Lucene & Database Algorithms (Java, Python)
+* Graphs & Advanced Data Structures (Java)
+* Data Mining (Scikit Learn, NumPy, Pandas, Matplotlib)
+* Big Data Algorithms (Python)
+* Computer Vision (NumPy, OpenCV)
 * Machine Learning (MLPs & CNN) with Tensorflow & Keras
-* Deep Reinforcement Learning with tf-agents
+* Deep Reinforcement Learning (TF-Agents, RLLib)
 * Autonomous Vehicle Algorithms
+* Proficiency in English (ECPE)
 
 # I Love
 
