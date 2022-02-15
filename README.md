@@ -8,21 +8,26 @@ I am a graduated student of University of Ioannina with a master in Computer Sci
 * Software Development in Multiple Platforms (JavaFX)
 * Networking, Multi-Threading & Parallel Programming (Java, C)
 * Web Development (HTML, CSS, JavaScript, Bootstrap, Spring Boot)
-* Android Application Development (Android Studio)
+* Android Development (Android Studio)
 * SQLite, PostgreSQL, Lucene & Database Algorithms (Java, Python)
 * Graphs & Advanced Data Structures (Java)
-* Data Mining (Scikit Learn, NumPy, Pandas, Matplotlib)
-* Big Data Algorithms (Python)
-* Computer Vision (NumPy, OpenCV)
-* Machine Learning (MLPs & CNN) with Tensorflow & Keras
+* Data Mining (Scikit Learn, NumPy, Pandas, Matplotlib, Seaborn)
+* Big Data Algorithms (Python, Numpy)
+* Computer Vision (Python NumPy, OpenCV)
+* Machine Learning Neural Networks (MLPs & CNN) with Tensorflow & Keras
+* Generative Adversarial Networks (GANs) with low-level Tensorflow
 * Deep Reinforcement Learning (TF-Agents, RLLib)
 * Autonomous Vehicle Algorithms
+* Differential Equations Solvers with Neural Networks
 * Proficiency in English (ECPE)
 
 # I Love
 
 1. Talking about my work.
-1. Working with people in a team.
-1. Meeting new people and creating new experiences.
-1. Using my knowledge to solve challenging tasks.
-1. Publishing my Code online, in order to help people that have to deal with similar tasks.
+2. Working with people in a team.
+3. Meeting new people and creating new experiences.
+4. Working in a friendly environment.
+5. Discovering & Learning new things.
+6. Using my knowledge to solve challenging tasks.
+7. Conducting Research - Analyzing problems & suggesting solutions.
+8. Publishing my Code online, in order to help the scientific community.
